@@ -1,7 +1,3 @@
-#Jinwei Zhou
-#Jinwzhou
-#114177591
-
 #problem 1
 def is_nice(s):
     listS= {}
