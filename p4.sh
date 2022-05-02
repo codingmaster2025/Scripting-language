@@ -1,8 +1,5 @@
 #!/bin/bash
 
-#Jinwei Zhou
-#Jinwzhou
-#114177591
 
 path1=$(realpath $1)
 path2=$(realpath $2)
