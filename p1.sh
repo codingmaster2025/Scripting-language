@@ -1,8 +1,5 @@
 #!/bin/bash
 
-#Jinwei Zhou
-#Jinwzhou
-#114177591
 
 if [ $# -ne 3 ]
 then
