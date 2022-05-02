@@ -1,9 +1,5 @@
 #!/bin/bash
 
-#Jinwei Zhou
-#Jinwzhou
-#114177591
-
 if [ $# -eq 0 ]
 then
 	echo "score directory missing"
