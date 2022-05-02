@@ -1,8 +1,5 @@
 #!/bin/bash
 
-#jinwei Zhou
-#jinwzhou
-#114177591
 
 
 if [ $# -ne 1 ]
